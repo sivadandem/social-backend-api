@@ -1,0 +1,14 @@
+# Environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other (Optional but good)
+instance/
+.pytest_cache/
+.DS_Store
